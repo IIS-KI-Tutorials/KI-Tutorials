@@ -1,0 +1,22 @@
+# This environment can be installed for local execution of the notebooks
+name: ki-tutorials
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - mlxtend
+  - pip:
+    - autogluon==0.8.0
+    - ipyannotations==0.5.1
+    - modAL-python==0.4.2.1
+    - scikit-activeml==0.4.1
+    - superintendent==0.6.0
+  
+#Todo Add GPU Support
