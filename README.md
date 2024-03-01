@@ -3,9 +3,7 @@
 
 Das Fraunhofer IIS freut sich, Ihnen in diesem Repository KI-Tutorials zu den Themen AutoML und Active Learning zur Verfügung zu stellen. Diese Tutorials bieten Ihnen einen praktischen Einstieg in diese wichtigen Machine-Learning-Techniken.
 
-## Haben Sie Fragen oder Anmerkungen?
-
-Gerne können Sie ein Issue in diesem Repository erstellen oder direkt mit Maximilian Kasper (maximilian.kasper@iis.fraunhofer.de) Kontakt aufnehmen.
+Die Tutorial lassen sich ganz einfach in Google Colab ausführen, folgen Sie dazu einfach dem entsprechenden Link.
 
 ## 1. AutoML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github//IIS-KI-Tutorials/KI-Tutorials/blob/main/AutoML_Tutorials.ipynb)
 
@@ -31,5 +29,6 @@ In diesem Tutorial lernst du, wie du mit Active Learning deine Machine-Learning-
 
 
 
+## Haben Sie Fragen oder Anmerkungen?
 
-Die Tutorial lassen sich ganz einfach in Google Colab ausführen, folgen Sie dazu einfach dem entsprechenden Link.
+Gerne können Sie ein Issue in diesem Repository erstellen oder direkt mit Maximilian Kasper (maximilian.kasper@iis.fraunhofer.de) Kontakt aufnehmen.
